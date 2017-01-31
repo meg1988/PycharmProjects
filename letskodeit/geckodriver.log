@@ -1,0 +1,459 @@
+1485299967004	geckodriver	INFO	Listening on 127.0.0.1:61800
+1485299967949	mozprofile::profile	INFO	Using profile path /var/folders/3c/9nvctwy95rj3bgx0w0_z59g00000gn/T/rust_mozprofile.YJlFfOCjupx9
+1485299967950	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1485299968004	geckodriver::marionette	INFO	Connecting to Marionette on localhost:61809
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1485299984955	Marionette	INFO	Listening on port 61809
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+[Child 98898] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 98898] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1485386953025	geckodriver	INFO	Listening on 127.0.0.1:63233
+1485386953426	mozprofile::profile	INFO	Using profile path /var/folders/3c/9nvctwy95rj3bgx0w0_z59g00000gn/T/rust_mozprofile.qibQ1vLBFIEw
+1485386953506	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1485386953759	geckodriver::marionette	INFO	Connecting to Marionette on localhost:63240
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1485386976455	Marionette	INFO	Listening on port 63240
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+[Child 10750] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 10750] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1485387185038	geckodriver	INFO	Listening on 127.0.0.1:63735
+1485387185812	mozprofile::profile	INFO	Using profile path /var/folders/3c/9nvctwy95rj3bgx0w0_z59g00000gn/T/rust_mozprofile.Sy0TCR43pnAE
+1485387185814	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1485387185878	geckodriver::marionette	INFO	Connecting to Marionette on localhost:63744
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1485387190155	Marionette	INFO	Listening on port 63744
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+[Child 10914] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 10914] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1485387667452	geckodriver	INFO	Listening on 127.0.0.1:63925
+1485387668495	mozprofile::profile	INFO	Using profile path /var/folders/3c/9nvctwy95rj3bgx0w0_z59g00000gn/T/rust_mozprofile.raXGVcfTDvho
+1485387668497	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1485387668672	geckodriver::marionette	INFO	Connecting to Marionette on localhost:63934
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1485387679992	Marionette	INFO	Listening on port 63934
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+[Child 11383] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 11383] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1485387810837	geckodriver	INFO	Listening on 127.0.0.1:64214
+1485387812233	mozprofile::profile	INFO	Using profile path /var/folders/3c/9nvctwy95rj3bgx0w0_z59g00000gn/T/rust_mozprofile.dvokwQGTVz4E
+1485387814368	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1485387820126	geckodriver::marionette	INFO	Connecting to Marionette on localhost:64222
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1485387860594	Marionette	INFO	Listening on port 64222
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1485388410910	geckodriver	INFO	Listening on 127.0.0.1:65102
+1485388411431	mozprofile::profile	INFO	Using profile path /var/folders/3c/9nvctwy95rj3bgx0w0_z59g00000gn/T/rust_mozprofile.vk9FL1wPRD9q
+1485388411468	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1485388412065	geckodriver::marionette	INFO	Connecting to Marionette on localhost:65110
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1485388436738	Marionette	INFO	Listening on port 65110
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1485388523377	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1485388523475	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1485388573280	geckodriver	INFO	Listening on 127.0.0.1:49323
+1485388573503	mozprofile::profile	INFO	Using profile path /var/folders/3c/9nvctwy95rj3bgx0w0_z59g00000gn/T/rust_mozprofile.iXzZNfbIs3nl
+1485388573506	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1485388573966	geckodriver::marionette	INFO	Connecting to Marionette on localhost:49331
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1485388584807	Marionette	INFO	Listening on port 49331
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+[Child 12140] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 12140] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1485389486426	geckodriver	INFO	Listening on 127.0.0.1:49650
+1485389487479	mozprofile::profile	INFO	Using profile path /var/folders/3c/9nvctwy95rj3bgx0w0_z59g00000gn/T/rust_mozprofile.vsPwuTyeRY5S
+1485389487482	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1485389487556	geckodriver::marionette	INFO	Connecting to Marionette on localhost:49656
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1485389492563	Marionette	INFO	Listening on port 49656
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+[Child 12898] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 12898] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1485460833501	geckodriver	INFO	Listening on 127.0.0.1:53246
+1485460834605	mozprofile::profile	INFO	Using profile path /var/folders/3c/9nvctwy95rj3bgx0w0_z59g00000gn/T/rust_mozprofile.8ZiVv5nk6ENR
+1485460834749	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1485460837584	geckodriver::marionette	INFO	Connecting to Marionette on localhost:53255
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1485460866529	Marionette	INFO	Listening on port 53255
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+2017-01-26 12:24:11.933 firefox-bin[24461:1571419] Warning: did not get back bottom left metric
+2017-01-26 12:24:11.942 firefox-bin[24461:1571419] Warning: did not get back top right metric
+2017-01-26 12:24:12.286 firefox-bin[24461:1571419] Warning: did not get back bottom left metric
+2017-01-26 12:24:12.286 firefox-bin[24461:1571419] Warning: did not get back top right metric
+2017-01-26 12:24:12.403 firefox-bin[24461:1571419] Warning: did not get back bottom left metric
+2017-01-26 12:24:12.403 firefox-bin[24461:1571419] Warning: did not get back top right metric
+2017-01-26 12:24:12.510 firefox-bin[24461:1571419] Warning: did not get back bottom left metric
+2017-01-26 12:24:12.510 firefox-bin[24461:1571419] Warning: did not get back top right metric
+2017-01-26 12:24:12.625 firefox-bin[24461:1571419] Warning: did not get back bottom left metric
+2017-01-26 12:24:12.625 firefox-bin[24461:1571419] Warning: did not get back top right metric
+2017-01-26 12:24:12.740 firefox-bin[24461:1571419] Warning: did not get back bottom left metric
+2017-01-26 12:24:12.741 firefox-bin[24461:1571419] Warning: did not get back top right metric
+2017-01-26 12:24:12.822 firefox-bin[24461:1571419] Warning: did not get back bottom left metric
+2017-01-26 12:24:12.823 firefox-bin[24461:1571419] Warning: did not get back top right metric
+2017-01-26 12:24:12.855 firefox-bin[24461:1571419] Warning: did not get back bottom left metric
+2017-01-26 12:24:12.855 firefox-bin[24461:1571419] Warning: did not get back top right metric
+2017-01-26 12:24:12.971 firefox-bin[24461:1571419] Warning: did not get back bottom left metric
+2017-01-26 12:24:12.971 firefox-bin[24461:1571419] Warning: did not get back top right metric
+2017-01-26 12:24:13.086 firefox-bin[24461:1571419] Warning: did not get back bottom left metric
+2017-01-26 12:24:13.086 firefox-bin[24461:1571419] Warning: did not get back top right metric
+2017-01-26 12:24:13.201 firefox-bin[24461:1571419] Warning: did not get back bottom left metric
+2017-01-26 12:24:13.201 firefox-bin[24461:1571419] Warning: did not get back top right metric
+2017-01-26 12:24:13.316 firefox-bin[24461:1571419] Warning: did not get back bottom left metric
+2017-01-26 12:24:13.316 firefox-bin[24461:1571419] Warning: did not get back top right metric
+2017-01-26 12:24:13.432 firefox-bin[24461:1571419] Warning: did not get back bottom left metric
+2017-01-26 12:24:13.432 firefox-bin[24461:1571419] Warning: did not get back top right metric
+2017-01-26 12:24:13.546 firefox-bin[24461:1571419] Warning: did not get back bottom left metric
+2017-01-26 12:24:13.546 firefox-bin[24461:1571419] Warning: did not get back top right metric
+2017-01-26 12:24:13.661 firefox-bin[24461:1571419] Warning: did not get back bottom left metric
+2017-01-26 12:24:13.661 firefox-bin[24461:1571419] Warning: did not get back top right metric
+2017-01-26 12:24:13.776 firefox-bin[24461:1571419] Warning: did not get back bottom left metric
+2017-01-26 12:24:13.776 firefox-bin[24461:1571419] Warning: did not get back top right metric
+2017-01-26 12:24:13.891 firefox-bin[24461:1571419] Warning: did not get back bottom left metric
+2017-01-26 12:24:13.891 firefox-bin[24461:1571419] Warning: did not get back top right metric
+2017-01-26 12:24:14.006 firefox-bin[24461:1571419] Warning: did not get back bottom left metric
+2017-01-26 12:24:14.006 firefox-bin[24461:1571419] Warning: did not get back top right metric
+2017-01-26 12:24:14.105 firefox-bin[24461:1571419] Warning: did not get back bottom left metric
+2017-01-26 12:24:14.105 firefox-bin[24461:1571419] Warning: did not get back top right metric
+2017-01-26 12:24:14.122 firefox-bin[24461:1571419] Warning: did not get back bottom left metric
+2017-01-26 12:24:14.122 firefox-bin[24461:1571419] Warning: did not get back top right metric
+2017-01-26 12:24:14.237 firefox-bin[24461:1571419] Warning: did not get back bottom left metric
+2017-01-26 12:24:14.237 firefox-bin[24461:1571419] Warning: did not get back top right metric
+2017-01-26 12:24:14.352 firefox-bin[24461:1571419] Warning: did not get back bottom left metric
+2017-01-26 12:24:14.352 firefox-bin[24461:1571419] Warning: did not get back top right metric
+2017-01-26 12:24:14.467 firefox-bin[24461:1571419] Warning: did not get back bottom left metric
+2017-01-26 12:24:14.467 firefox-bin[24461:1571419] Warning: did not get back top right metric
+2017-01-26 12:24:14.582 firefox-bin[24461:1571419] Warning: did not get back bottom left metric
+2017-01-26 12:24:14.582 firefox-bin[24461:1571419] Warning: did not get back top right metric
+2017-01-26 12:24:14.697 firefox-bin[24461:1571419] Warning: did not get back bottom left metric
+2017-01-26 12:24:14.697 firefox-bin[24461:1571419] Warning: did not get back top right metric
+2017-01-26 12:24:14.812 firefox-bin[24461:1571419] Warning: did not get back bottom left metric
+2017-01-26 12:24:14.812 firefox-bin[24461:1571419] Warning: did not get back top right metric
+2017-01-26 12:24:14.927 firefox-bin[24461:1571419] Warning: did not get back bottom left metric
+2017-01-26 12:24:14.927 firefox-bin[24461:1571419] Warning: did not get back top right metric
+2017-01-26 12:24:15.042 firefox-bin[24461:1571419] Warning: did not get back bottom left metric
+2017-01-26 12:24:15.042 firefox-bin[24461:1571419] Warning: did not get back top right metric
+2017-01-26 12:24:15.157 firefox-bin[24461:1571419] Warning: did not get back bottom left metric
+2017-01-26 12:24:15.157 firefox-bin[24461:1571419] Warning: did not get back top right metric
+2017-01-26 12:24:15.273 firefox-bin[24461:1571419] Warning: did not get back bottom left metric
+2017-01-26 12:24:15.273 firefox-bin[24461:1571419] Warning: did not get back top right metric
+2017-01-26 12:24:15.388 firefox-bin[24461:1571419] Warning: did not get back bottom left metric
+2017-01-26 12:24:15.388 firefox-bin[24461:1571419] Warning: did not get back top right metric
+2017-01-26 12:24:15.503 firefox-bin[24461:1571419] Warning: did not get back bottom left metric
+2017-01-26 12:24:15.503 firefox-bin[24461:1571419] Warning: did not get back top right metric
+2017-01-26 12:24:15.618 firefox-bin[24461:1571419] Warning: did not get back bottom left metric
+2017-01-26 12:24:15.618 firefox-bin[24461:1571419] Warning: did not get back top right metric
+2017-01-26 12:24:15.796 firefox-bin[24461:1571419] Warning: did not get back bottom left metric
+2017-01-26 12:24:15.796 firefox-bin[24461:1571419] Warning: did not get back top right metric
+2017-01-26 12:24:15.947 firefox-bin[24461:1571419] Warning: did not get back bottom left metric
+2017-01-26 12:24:15.947 firefox-bin[24461:1571419] Warning: did not get back top right metric
+2017-01-26 12:24:16.111 firefox-bin[24461:1571419] Warning: did not get back bottom left metric
+2017-01-26 12:24:16.111 firefox-bin[24461:1571419] Warning: did not get back top right metric
+2017-01-26 12:24:16.226 firefox-bin[24461:1571419] Warning: did not get back bottom left metric
+2017-01-26 12:24:16.226 firefox-bin[24461:1571419] Warning: did not get back top right metric
+2017-01-26 12:24:16.341 firefox-bin[24461:1571419] Warning: did not get back bottom left metric
+2017-01-26 12:24:16.341 firefox-bin[24461:1571419] Warning: did not get back top right metric
+2017-01-26 12:24:16.456 firefox-bin[24461:1571419] Warning: did not get back bottom left metric
+2017-01-26 12:24:16.456 firefox-bin[24461:1571419] Warning: did not get back top right metric
+2017-01-26 12:24:16.571 firefox-bin[24461:1571419] Warning: did not get back bottom left metric
+2017-01-26 12:24:16.571 firefox-bin[24461:1571419] Warning: did not get back top right metric
+2017-01-26 12:24:16.687 firefox-bin[24461:1571419] Warning: did not get back bottom left metric
+2017-01-26 12:24:16.687 firefox-bin[24461:1571419] Warning: did not get back top right metric
+2017-01-26 12:24:16.801 firefox-bin[24461:1571419] Warning: did not get back bottom left metric
+2017-01-26 12:24:16.801 firefox-bin[24461:1571419] Warning: did not get back top right metric
+2017-01-26 12:24:16.868 firefox-bin[24461:1571419] Warning: did not get back bottom left metric
+2017-01-26 12:24:16.868 firefox-bin[24461:1571419] Warning: did not get back top right metric
+2017-01-26 12:24:16.917 firefox-bin[24461:1571419] Warning: did not get back bottom left metric
+2017-01-26 12:24:16.917 firefox-bin[24461:1571419] Warning: did not get back top right metric
+2017-01-26 12:24:17.032 firefox-bin[24461:1571419] Warning: did not get back bottom left metric
+2017-01-26 12:24:17.032 firefox-bin[24461:1571419] Warning: did not get back top right metric
+2017-01-26 12:24:17.147 firefox-bin[24461:1571419] Warning: did not get back bottom left metric
+2017-01-26 12:24:17.147 firefox-bin[24461:1571419] Warning: did not get back top right metric
+2017-01-26 12:24:17.262 firefox-bin[24461:1571419] Warning: did not get back bottom left metric
+2017-01-26 12:24:17.262 firefox-bin[24461:1571419] Warning: did not get back top right metric
+2017-01-26 12:24:17.377 firefox-bin[24461:1571419] Warning: did not get back bottom left metric
+2017-01-26 12:24:17.377 firefox-bin[24461:1571419] Warning: did not get back top right metric
+2017-01-26 12:24:17.492 firefox-bin[24461:1571419] Warning: did not get back bottom left metric
+2017-01-26 12:24:17.492 firefox-bin[24461:1571419] Warning: did not get back top right metric
+2017-01-26 12:24:17.574 firefox-bin[24461:1571419] Warning: did not get back bottom left metric
+2017-01-26 12:24:17.574 firefox-bin[24461:1571419] Warning: did not get back top right metric
+2017-01-26 12:24:17.607 firefox-bin[24461:1571419] Warning: did not get back bottom left metric
+2017-01-26 12:24:17.607 firefox-bin[24461:1571419] Warning: did not get back top right metric
+1485462372303	geckodriver	INFO	Listening on 127.0.0.1:53970
+1485462372516	mozprofile::profile	INFO	Using profile path /var/folders/3c/9nvctwy95rj3bgx0w0_z59g00000gn/T/rust_mozprofile.Sk3QFJtl9Yhk
+1485462372547	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1485462372599	geckodriver::marionette	INFO	Connecting to Marionette on localhost:53977
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1485462379223	Marionette	INFO	Listening on port 53977
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+2017-01-26 12:26:31.988 firefox-bin[25697:1581551] Warning: did not get back bottom left metric
+2017-01-26 12:26:32.003 firefox-bin[25697:1581551] Warning: did not get back top right metric
+2017-01-26 12:26:32.276 firefox-bin[25697:1581551] Warning: did not get back bottom left metric
+2017-01-26 12:26:32.276 firefox-bin[25697:1581551] Warning: did not get back top right metric
+2017-01-26 12:26:32.387 firefox-bin[25697:1581551] Warning: did not get back bottom left metric
+2017-01-26 12:26:32.387 firefox-bin[25697:1581551] Warning: did not get back top right metric
+2017-01-26 12:26:32.501 firefox-bin[25697:1581551] Warning: did not get back bottom left metric
+2017-01-26 12:26:32.501 firefox-bin[25697:1581551] Warning: did not get back top right metric
+2017-01-26 12:26:32.652 firefox-bin[25697:1581551] Warning: did not get back bottom left metric
+2017-01-26 12:26:32.652 firefox-bin[25697:1581551] Warning: did not get back top right metric
+2017-01-26 12:26:32.764 firefox-bin[25697:1581551] Warning: did not get back bottom left metric
+2017-01-26 12:26:32.764 firefox-bin[25697:1581551] Warning: did not get back top right metric
+2017-01-26 12:26:32.880 firefox-bin[25697:1581551] Warning: did not get back bottom left metric
+2017-01-26 12:26:32.880 firefox-bin[25697:1581551] Warning: did not get back top right metric
+2017-01-26 12:26:32.994 firefox-bin[25697:1581551] Warning: did not get back bottom left metric
+2017-01-26 12:26:32.994 firefox-bin[25697:1581551] Warning: did not get back top right metric
+2017-01-26 12:26:33.110 firefox-bin[25697:1581551] Warning: did not get back bottom left metric
+2017-01-26 12:26:33.110 firefox-bin[25697:1581551] Warning: did not get back top right metric
+2017-01-26 12:26:33.224 firefox-bin[25697:1581551] Warning: did not get back bottom left metric
+2017-01-26 12:26:33.224 firefox-bin[25697:1581551] Warning: did not get back top right metric
+2017-01-26 12:26:33.340 firefox-bin[25697:1581551] Warning: did not get back bottom left metric
+2017-01-26 12:26:33.340 firefox-bin[25697:1581551] Warning: did not get back top right metric
+2017-01-26 12:26:33.454 firefox-bin[25697:1581551] Warning: did not get back bottom left metric
+2017-01-26 12:26:33.455 firefox-bin[25697:1581551] Warning: did not get back top right metric
+2017-01-26 12:26:33.570 firefox-bin[25697:1581551] Warning: did not get back bottom left metric
+2017-01-26 12:26:33.570 firefox-bin[25697:1581551] Warning: did not get back top right metric
+2017-01-26 12:26:33.687 firefox-bin[25697:1581551] Warning: did not get back bottom left metric
+2017-01-26 12:26:33.687 firefox-bin[25697:1581551] Warning: did not get back top right metric
+2017-01-26 12:26:33.800 firefox-bin[25697:1581551] Warning: did not get back bottom left metric
+2017-01-26 12:26:33.800 firefox-bin[25697:1581551] Warning: did not get back top right metric
+2017-01-26 12:26:33.916 firefox-bin[25697:1581551] Warning: did not get back bottom left metric
+2017-01-26 12:26:33.916 firefox-bin[25697:1581551] Warning: did not get back top right metric
+2017-01-26 12:26:34.030 firefox-bin[25697:1581551] Warning: did not get back bottom left metric
+2017-01-26 12:26:34.030 firefox-bin[25697:1581551] Warning: did not get back top right metric
+2017-01-26 12:26:34.169 firefox-bin[25697:1581551] Warning: did not get back bottom left metric
+2017-01-26 12:26:34.169 firefox-bin[25697:1581551] Warning: did not get back top right metric
+2017-01-26 12:26:34.277 firefox-bin[25697:1581551] Warning: did not get back bottom left metric
+2017-01-26 12:26:34.277 firefox-bin[25697:1581551] Warning: did not get back top right metric
+2017-01-26 12:26:34.392 firefox-bin[25697:1581551] Warning: did not get back bottom left metric
+2017-01-26 12:26:34.392 firefox-bin[25697:1581551] Warning: did not get back top right metric
+2017-01-26 12:26:34.508 firefox-bin[25697:1581551] Warning: did not get back bottom left metric
+2017-01-26 12:26:34.508 firefox-bin[25697:1581551] Warning: did not get back top right metric
+2017-01-26 12:26:34.622 firefox-bin[25697:1581551] Warning: did not get back bottom left metric
+2017-01-26 12:26:34.622 firefox-bin[25697:1581551] Warning: did not get back top right metric
+2017-01-26 12:26:34.738 firefox-bin[25697:1581551] Warning: did not get back bottom left metric
+2017-01-26 12:26:34.738 firefox-bin[25697:1581551] Warning: did not get back top right metric
+2017-01-26 12:26:34.796 firefox-bin[25697:1581551] Warning: did not get back bottom left metric
+2017-01-26 12:26:34.797 firefox-bin[25697:1581551] Warning: did not get back top right metric
+[Child 25705] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 25705] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1485462431547	geckodriver	INFO	Listening on 127.0.0.1:54175
+1485462431646	mozprofile::profile	INFO	Using profile path /var/folders/3c/9nvctwy95rj3bgx0w0_z59g00000gn/T/rust_mozprofile.uAcAxiyctxXy
+1485462431648	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1485462431657	geckodriver::marionette	INFO	Connecting to Marionette on localhost:54182
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1485462434644	Marionette	INFO	Listening on port 54182
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+[Child 25743] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 25743] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1485462495831	geckodriver	INFO	Listening on 127.0.0.1:54321
+1485462495940	mozprofile::profile	INFO	Using profile path /var/folders/3c/9nvctwy95rj3bgx0w0_z59g00000gn/T/rust_mozprofile.Z8T2iGri1Ezd
+1485462496031	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1485462496236	geckodriver::marionette	INFO	Connecting to Marionette on localhost:54328
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1485462501654	Marionette	INFO	Listening on port 54328
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+[Child 25840] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 25840] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1485462547306	geckodriver	INFO	Listening on 127.0.0.1:54501
+1485462547374	mozprofile::profile	INFO	Using profile path /var/folders/3c/9nvctwy95rj3bgx0w0_z59g00000gn/T/rust_mozprofile.gc7bmCGUtZ8t
+1485462547375	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1485462547378	geckodriver::marionette	INFO	Connecting to Marionette on localhost:54505
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1485462550254	Marionette	INFO	Listening on port 54505
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+[Child 25874] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 25874] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1485463630679	geckodriver	INFO	Listening on 127.0.0.1:54669
+1485463631106	mozprofile::profile	INFO	Using profile path /var/folders/3c/9nvctwy95rj3bgx0w0_z59g00000gn/T/rust_mozprofile.9DpfV3F5x59v
+1485463631144	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1485463631240	geckodriver::marionette	INFO	Connecting to Marionette on localhost:54673
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1485463640640	Marionette	INFO	Listening on port 54673
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+[Child 26823] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 26823] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1485464991441	geckodriver	INFO	Listening on 127.0.0.1:55330
+1485464991676	mozprofile::profile	INFO	Using profile path /var/folders/3c/9nvctwy95rj3bgx0w0_z59g00000gn/T/rust_mozprofile.sGqqAxPQjWh2
+1485464991705	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1485464991776	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55334
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1485464997766	Marionette	INFO	Listening on port 55334
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+[Child 27963] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 27963] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1485467306777	geckodriver	INFO	Listening on 127.0.0.1:56171
+1485467306992	mozprofile::profile	INFO	Using profile path /var/folders/3c/9nvctwy95rj3bgx0w0_z59g00000gn/T/rust_mozprofile.IeI0MPntGD4g
+1485467306996	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1485467307058	geckodriver::marionette	INFO	Connecting to Marionette on localhost:56178
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1485467312287	Marionette	INFO	Listening on port 56178
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+[Child 29828] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 29828] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1485474957233	geckodriver	INFO	Listening on 127.0.0.1:50953
+1485474957850	mozprofile::profile	INFO	Using profile path /var/folders/3c/9nvctwy95rj3bgx0w0_z59g00000gn/T/rust_mozprofile.2akp2h2ftjpR
+1485474958028	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1485474959585	geckodriver::marionette	INFO	Connecting to Marionette on localhost:50962
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1485474996752	Marionette	INFO	Listening on port 50962
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+[Child 5553] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 5553] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1485560826829	geckodriver	INFO	Listening on 127.0.0.1:49506
+1485560827461	mozprofile::profile	INFO	Using profile path /var/folders/3c/9nvctwy95rj3bgx0w0_z59g00000gn/T/rust_mozprofile.h7iQItHMPTbB
+1485560827515	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1485560829094	geckodriver::marionette	INFO	Connecting to Marionette on localhost:49515
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1485560844988	Marionette	INFO	Listening on port 49515
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+[Child 3426] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 3426] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1485560982797	geckodriver	INFO	Listening on 127.0.0.1:49891
+1485560983678	mozprofile::profile	INFO	Using profile path /var/folders/3c/9nvctwy95rj3bgx0w0_z59g00000gn/T/rust_mozprofile.skhXkfQZBHE3
+1485560983769	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1485560983805	geckodriver::marionette	INFO	Connecting to Marionette on localhost:49900
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1485560991970	Marionette	INFO	Listening on port 49900
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+[Child 3588] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 3588] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1485563639777	geckodriver	INFO	Listening on 127.0.0.1:50271
+1485563640724	mozprofile::profile	INFO	Using profile path /var/folders/3c/9nvctwy95rj3bgx0w0_z59g00000gn/T/rust_mozprofile.7lpnzp7CkzM8
+1485563640770	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1485563640805	geckodriver::marionette	INFO	Connecting to Marionette on localhost:50280
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1485563660351	Marionette	INFO	Listening on port 50280
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+[Child 6473] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 6473] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1485563958425	geckodriver	INFO	Listening on 127.0.0.1:50739
+1485563959449	mozprofile::profile	INFO	Using profile path /var/folders/3c/9nvctwy95rj3bgx0w0_z59g00000gn/T/rust_mozprofile.mJ7mFPnxbX36
+1485563959495	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1485563959522	geckodriver::marionette	INFO	Connecting to Marionette on localhost:50748
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1485563964981	Marionette	INFO	Listening on port 50748
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+[Child 6764] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 6764] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1485564073662	geckodriver	INFO	Listening on 127.0.0.1:50919
+1485564074771	mozprofile::profile	INFO	Using profile path /var/folders/3c/9nvctwy95rj3bgx0w0_z59g00000gn/T/rust_mozprofile.at1JPawTPASQ
+1485564074774	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1485564074792	geckodriver::marionette	INFO	Connecting to Marionette on localhost:50928
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1485564080666	Marionette	INFO	Listening on port 50928
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+[Child 6903] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 6903] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1485564731463	geckodriver	INFO	Listening on 127.0.0.1:51116
+1485564732454	mozprofile::profile	INFO	Using profile path /var/folders/3c/9nvctwy95rj3bgx0w0_z59g00000gn/T/rust_mozprofile.5aP01IazfPBo
+1485564732481	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1485564732505	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51125
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1485564738952	Marionette	INFO	Listening on port 51125
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+[Child 7569] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 7569] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1485564798708	geckodriver	INFO	Listening on 127.0.0.1:51323
+1485564799684	mozprofile::profile	INFO	Using profile path /var/folders/3c/9nvctwy95rj3bgx0w0_z59g00000gn/T/rust_mozprofile.MBE2RQw3xEmE
+1485564799688	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1485564799692	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51332
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1485564802320	Marionette	INFO	Listening on port 51332
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+[Child 7642] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 7642] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1485566659141	geckodriver	INFO	Listening on 127.0.0.1:51552
+1485566660042	mozprofile::profile	INFO	Using profile path /var/folders/3c/9nvctwy95rj3bgx0w0_z59g00000gn/T/rust_mozprofile.WzXmbcC43x3P
+1485566660066	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1485566660092	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51561
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1485566666706	Marionette	INFO	Listening on port 51561
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+[Child 9615] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 9615] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1485566847634	geckodriver	INFO	Listening on 127.0.0.1:51762
+1485566848661	mozprofile::profile	INFO	Using profile path /var/folders/3c/9nvctwy95rj3bgx0w0_z59g00000gn/T/rust_mozprofile.q3FfBHlQ9jXD
+1485566848663	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1485566848755	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51771
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1485566854851	Marionette	INFO	Listening on port 51771
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+[Child 9821] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 9821] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1485567876554	geckodriver	INFO	Listening on 127.0.0.1:52046
+1485567877455	mozprofile::profile	INFO	Using profile path /var/folders/3c/9nvctwy95rj3bgx0w0_z59g00000gn/T/rust_mozprofile.eV43Cn59E5mQ
+1485567877458	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1485567877501	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52055
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1485567890945	Marionette	INFO	Listening on port 52055
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+[Child 10165] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 10165] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1485811892032	geckodriver	INFO	Listening on 127.0.0.1:54942
+1485811892834	mozprofile::profile	INFO	Using profile path /var/folders/3c/9nvctwy95rj3bgx0w0_z59g00000gn/T/rust_mozprofile.Q5zKkQGTnoYc
+1485811892836	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1485811892901	geckodriver::marionette	INFO	Connecting to Marionette on localhost:54951
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1485811897320	Marionette	INFO	Listening on port 54951
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+[Child 31517] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 31517] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1485819981261	geckodriver	INFO	Listening on 127.0.0.1:55935
+1485819982127	mozprofile::profile	INFO	Using profile path /var/folders/3c/9nvctwy95rj3bgx0w0_z59g00000gn/T/rust_mozprofile.TL6i8YHbHWpB
+1485819982132	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1485819982160	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55944
+1485820014420	Marionette	INFO	Listening on port 55944
+1485820058676	Marionette	WARN	Using deprecated data structure for setting timeouts
+1485820114955	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1485820126170	geckodriver	INFO	Listening on 127.0.0.1:56677
+1485820127131	mozprofile::profile	INFO	Using profile path /var/folders/3c/9nvctwy95rj3bgx0w0_z59g00000gn/T/rust_mozprofile.OJMp6qmDvxQ3
+1485820127134	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1485820127149	geckodriver::marionette	INFO	Connecting to Marionette on localhost:56686
+1485820131460	Marionette	INFO	Listening on port 56686
+1485820135337	Marionette	WARN	Using deprecated data structure for setting timeouts
+JavaScript warning: https://api.taxamo.com/api/xdm.html?public_token=public_3adAdeo6B9dUufD_mJMEMkTXmxbK-vffcybxQEvrshk&xdm_e=https%3A%2F%2Fsso.teachable.com&xdm_c=default2733&xdm_p=1, line 28: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 40368] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 40368] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1485820755574	geckodriver	INFO	Listening on 127.0.0.1:56911
+1485820756271	mozprofile::profile	INFO	Using profile path /var/folders/3c/9nvctwy95rj3bgx0w0_z59g00000gn/T/rust_mozprofile.WFiZ59fXfj2K
+1485820756274	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1485820756311	geckodriver::marionette	INFO	Connecting to Marionette on localhost:56920
+1485820762075	Marionette	INFO	Listening on port 56920
+1485820790984	Marionette	WARN	Using deprecated data structure for setting timeouts
+JavaScript warning: https://api.taxamo.com/api/xdm.html?public_token=public_3adAdeo6B9dUufD_mJMEMkTXmxbK-vffcybxQEvrshk&xdm_e=https%3A%2F%2Fsso.teachable.com&xdm_c=default5676&xdm_p=1, line 28: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 41036] WARNING: pipe error: Broken pipe: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 687
+[Child 41036] WARNING: pipe error: Broken pipe: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 687
+[Child 41036] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 41036] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1485821511112	geckodriver	INFO	Listening on 127.0.0.1:57164
+1485821512109	mozprofile::profile	INFO	Using profile path /var/folders/3c/9nvctwy95rj3bgx0w0_z59g00000gn/T/rust_mozprofile.VwZBl8LBiSh6
+1485821512111	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1485821512157	geckodriver::marionette	INFO	Connecting to Marionette on localhost:57173
+1485821515617	Marionette	INFO	Listening on port 57173
+1485821519474	Marionette	WARN	Using deprecated data structure for setting timeouts
+JavaScript warning: https://api.taxamo.com/api/xdm.html?public_token=public_3adAdeo6B9dUufD_mJMEMkTXmxbK-vffcybxQEvrshk&xdm_e=https%3A%2F%2Fsso.teachable.com&xdm_c=default4375&xdm_p=1, line 28: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 41795] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 41795] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1485821610841	geckodriver	INFO	Listening on 127.0.0.1:57346
+1485821611811	mozprofile::profile	INFO	Using profile path /var/folders/3c/9nvctwy95rj3bgx0w0_z59g00000gn/T/rust_mozprofile.6NyyIkDpvFyM
+1485821611813	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1485821611816	geckodriver::marionette	INFO	Connecting to Marionette on localhost:57355
+1485821615163	Marionette	INFO	Listening on port 57355
+1485821617935	Marionette	WARN	Using deprecated data structure for setting timeouts
+JavaScript warning: https://api.taxamo.com/api/xdm.html?public_token=public_3adAdeo6B9dUufD_mJMEMkTXmxbK-vffcybxQEvrshk&xdm_e=https%3A%2F%2Fsso.teachable.com&xdm_c=default9032&xdm_p=1, line 28: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 41940] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 41940] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1485826148625	geckodriver	INFO	Listening on 127.0.0.1:57552
+1485826149602	mozprofile::profile	INFO	Using profile path /var/folders/3c/9nvctwy95rj3bgx0w0_z59g00000gn/T/rust_mozprofile.brwg5w94g1R7
+1485826149604	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1485826149607	geckodriver::marionette	INFO	Connecting to Marionette on localhost:57561
+1485826153224	Marionette	INFO	Listening on port 57561
+1485826157622	Marionette	WARN	Using deprecated data structure for setting timeouts
+JavaScript warning: https://api.taxamo.com/api/xdm.html?public_token=public_3adAdeo6B9dUufD_mJMEMkTXmxbK-vffcybxQEvrshk&xdm_e=https%3A%2F%2Fsso.teachable.com&xdm_c=default1915&xdm_p=1, line 28: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 42205] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 42205] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056

@@ -1,0 +1,139 @@
+1483743842265	geckodriver	INFO	Listening on 127.0.0.1:64270
+1483743843095	mozprofile::profile	INFO	Using profile path /var/folders/3c/9nvctwy95rj3bgx0w0_z59g00000gn/T/rust_mozprofile.vemPKkA9KxQE
+1483743843096	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1483743843145	geckodriver::marionette	INFO	Connecting to Marionette on localhost:64276
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1483743853718	Marionette	INFO	Listening on port 64276
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1483744078163	geckodriver	INFO	Listening on 127.0.0.1:64531
+1483744079145	mozprofile::profile	INFO	Using profile path /var/folders/3c/9nvctwy95rj3bgx0w0_z59g00000gn/T/rust_mozprofile.pjAhsQl95aR7
+1483744079147	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1483744079185	geckodriver::marionette	INFO	Connecting to Marionette on localhost:64537
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1483744083337	Marionette	INFO	Listening on port 64537
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1483744558994	geckodriver	INFO	Listening on 127.0.0.1:64699
+1483744559890	mozprofile::profile	INFO	Using profile path /var/folders/3c/9nvctwy95rj3bgx0w0_z59g00000gn/T/rust_mozprofile.YQgQCNJjWVZN
+1483744559892	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1483744559899	geckodriver::marionette	INFO	Connecting to Marionette on localhost:64705
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1483744563545	Marionette	INFO	Listening on port 64705
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1483744635515	geckodriver	INFO	Listening on 127.0.0.1:64810
+1483744636496	mozprofile::profile	INFO	Using profile path /var/folders/3c/9nvctwy95rj3bgx0w0_z59g00000gn/T/rust_mozprofile.RPqCdckLursA
+1483744636499	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1483744636513	geckodriver::marionette	INFO	Connecting to Marionette on localhost:64816
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1483744641896	Marionette	INFO	Listening on port 64816
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1483744739560	geckodriver	INFO	Listening on 127.0.0.1:64957
+1483744740599	mozprofile::profile	INFO	Using profile path /var/folders/3c/9nvctwy95rj3bgx0w0_z59g00000gn/T/rust_mozprofile.3dRoPSYrVe4n
+1483744740601	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1483744740616	geckodriver::marionette	INFO	Connecting to Marionette on localhost:64963
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1483744746665	Marionette	INFO	Listening on port 64963
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1483749847265	geckodriver	INFO	Listening on 127.0.0.1:65135
+1483749852550	mozprofile::profile	INFO	Using profile path /var/folders/3c/9nvctwy95rj3bgx0w0_z59g00000gn/T/rust_mozprofile.2z15d7F7EV7m
+1483749854495	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1483749855320	geckodriver::marionette	INFO	Connecting to Marionette on localhost:65145
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1483749931243	Marionette	INFO	Listening on port 65145
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1483750020106	geckodriver	INFO	Listening on 127.0.0.1:49980
+1483750021479	mozprofile::profile	INFO	Using profile path /var/folders/3c/9nvctwy95rj3bgx0w0_z59g00000gn/T/rust_mozprofile.TmfsLsVu2i5l
+1483750023491	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1483750025137	geckodriver::marionette	INFO	Connecting to Marionette on localhost:49988
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1483750049245	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1483750049738	Marionette	INFO	Listening on port 49988
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1483750512769	geckodriver	INFO	Listening on 127.0.0.1:50523
+1483750513691	mozprofile::profile	INFO	Using profile path /var/folders/3c/9nvctwy95rj3bgx0w0_z59g00000gn/T/rust_mozprofile.Iw0TpjOx3y1s
+1483750513693	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1483750513750	geckodriver::marionette	INFO	Connecting to Marionette on localhost:50531
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1483750520259	Marionette	INFO	Listening on port 50531
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1483750737537	geckodriver	INFO	Listening on 127.0.0.1:50691
+1483750738475	mozprofile::profile	INFO	Using profile path /var/folders/3c/9nvctwy95rj3bgx0w0_z59g00000gn/T/rust_mozprofile.Mg4Ts5al5e5E
+1483750738476	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1483750738492	geckodriver::marionette	INFO	Connecting to Marionette on localhost:50697
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1483750745064	Marionette	INFO	Listening on port 50697
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1483750890250	geckodriver	INFO	Listening on 127.0.0.1:50861
+1483750890990	mozprofile::profile	INFO	Using profile path /var/folders/3c/9nvctwy95rj3bgx0w0_z59g00000gn/T/rust_mozprofile.SGnFdrNvjQE6
+1483750890991	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1483750891042	geckodriver::marionette	INFO	Connecting to Marionette on localhost:50867
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1483750894788	Marionette	INFO	Listening on port 50867
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1483750931153	geckodriver	INFO	Listening on 127.0.0.1:50970
+1483750932032	mozprofile::profile	INFO	Using profile path /var/folders/3c/9nvctwy95rj3bgx0w0_z59g00000gn/T/rust_mozprofile.ygpJehHyN9XY
+1483750932034	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1483750932085	geckodriver::marionette	INFO	Connecting to Marionette on localhost:50976
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1483750936311	Marionette	INFO	Listening on port 50976
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1483751364858	geckodriver	INFO	Listening on 127.0.0.1:51106
+1483751369867	geckodriver	INFO	Listening on 127.0.0.1:51109
+1483751370947	mozprofile::profile	INFO	Using profile path /var/folders/3c/9nvctwy95rj3bgx0w0_z59g00000gn/T/rust_mozprofile.JpkMk7bJM5CM
+1483751370948	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1483751370986	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51115
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1483751376035	Marionette	INFO	Listening on port 51115
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+[Child 28047] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 28047] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1483841887819	geckodriver	INFO	Listening on 127.0.0.1:52907
+1483841888589	mozprofile::profile	INFO	Using profile path /var/folders/3c/9nvctwy95rj3bgx0w0_z59g00000gn/T/rust_mozprofile.oSPIMuTvPyg0
+1483841888592	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1483841890369	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52913
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1483841908379	Marionette	INFO	Listening on port 52913
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1483842028250	geckodriver	INFO	Listening on 127.0.0.1:53319
+1483842029227	mozprofile::profile	INFO	Using profile path /var/folders/3c/9nvctwy95rj3bgx0w0_z59g00000gn/T/rust_mozprofile.gYyaA3HqujvO
+1483842029229	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1483842029244	geckodriver::marionette	INFO	Connecting to Marionette on localhost:53328
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1483842033724	Marionette	INFO	Listening on port 53328
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1483842120889	geckodriver	INFO	Listening on 127.0.0.1:53451
+1483842121819	mozprofile::profile	INFO	Using profile path /var/folders/3c/9nvctwy95rj3bgx0w0_z59g00000gn/T/rust_mozprofile.0a1v38zJtlSc
+1483842121821	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1483842121836	geckodriver::marionette	INFO	Connecting to Marionette on localhost:53457
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1483842127565	Marionette	INFO	Listening on port 53457
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************

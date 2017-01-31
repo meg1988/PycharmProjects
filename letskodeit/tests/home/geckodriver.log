@@ -1,0 +1,30 @@
+1485293313919	geckodriver	INFO	Listening on 127.0.0.1:60224
+1485293314843	mozprofile::profile	INFO	Using profile path /var/folders/3c/9nvctwy95rj3bgx0w0_z59g00000gn/T/rust_mozprofile.D5rb9ATzGsUY
+1485293314850	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1485293315285	geckodriver::marionette	INFO	Connecting to Marionette on localhost:60233
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1485293324203	Marionette	INFO	Listening on port 60233
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1485299154343	geckodriver	INFO	Listening on 127.0.0.1:60746
+1485299155266	mozprofile::profile	INFO	Using profile path /var/folders/3c/9nvctwy95rj3bgx0w0_z59g00000gn/T/rust_mozprofile.agGgn3M1XRNB
+1485299155268	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1485299155299	geckodriver::marionette	INFO	Connecting to Marionette on localhost:60755
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1485299162751	Marionette	INFO	Listening on port 60755
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1485299267117	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1485299320145	geckodriver	INFO	Listening on 127.0.0.1:60981
+1485299321139	mozprofile::profile	INFO	Using profile path /var/folders/3c/9nvctwy95rj3bgx0w0_z59g00000gn/T/rust_mozprofile.zW3lq3ZvEJbp
+1485299322744	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1485299323647	geckodriver::marionette	INFO	Connecting to Marionette on localhost:60992
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1485299357222	Marionette	INFO	Listening on port 60992
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+[Child 98255] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 98255] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056

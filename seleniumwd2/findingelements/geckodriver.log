@@ -1,0 +1,712 @@
+1483658166499	geckodriver	INFO	Listening on 127.0.0.1:51628
+1483658167407	mozprofile::profile	INFO	Using profile path /var/folders/3c/9nvctwy95rj3bgx0w0_z59g00000gn/T/rust_mozprofile.Gh6PEnAJFrIu
+1483658167423	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1483658167525	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51634
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1483658173181	Marionette	INFO	Listening on port 51634
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1483658311183	geckodriver	INFO	Listening on 127.0.0.1:51791
+1483658312175	mozprofile::profile	INFO	Using profile path /var/folders/3c/9nvctwy95rj3bgx0w0_z59g00000gn/T/rust_mozprofile.h66eB3nwWV60
+1483658312178	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1483658312192	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51797
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1483658317244	Marionette	INFO	Listening on port 51797
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1483659223151	geckodriver	INFO	Listening on 127.0.0.1:51997
+1483659224131	mozprofile::profile	INFO	Using profile path /var/folders/3c/9nvctwy95rj3bgx0w0_z59g00000gn/T/rust_mozprofile.ZBfD2iIaXpra
+1483659224134	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1483659224148	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52006
+1483659237556	geckodriver	INFO	Listening on 127.0.0.1:52045
+1483659237618	mozprofile::profile	INFO	Using profile path /var/folders/3c/9nvctwy95rj3bgx0w0_z59g00000gn/T/rust_mozprofile.7vtDuZew83Xm
+1483659237621	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1483659237627	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52049
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1483659240110	Marionette	INFO	Listening on port 52049
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1483659318150	geckodriver	INFO	Listening on 127.0.0.1:52146
+1483659319109	mozprofile::profile	INFO	Using profile path /var/folders/3c/9nvctwy95rj3bgx0w0_z59g00000gn/T/rust_mozprofile.K16YtpEIC78L
+1483659319111	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1483659319118	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52152
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1483659324421	Marionette	INFO	Listening on port 52152
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1483659425357	geckodriver	INFO	Listening on 127.0.0.1:52323
+1483659426314	mozprofile::profile	INFO	Using profile path /var/folders/3c/9nvctwy95rj3bgx0w0_z59g00000gn/T/rust_mozprofile.7mN4PPsbTzhD
+1483659426316	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1483659426319	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52329
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1483659429016	Marionette	INFO	Listening on port 52329
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1483659557034	geckodriver	INFO	Listening on 127.0.0.1:52428
+1483659557977	mozprofile::profile	INFO	Using profile path /var/folders/3c/9nvctwy95rj3bgx0w0_z59g00000gn/T/rust_mozprofile.naLmxV0b1nKi
+1483659557979	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1483659557994	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52434
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1483659563405	Marionette	INFO	Listening on port 52434
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A00C2,name=PContent::Msg_ConsoleMessage) Channel closing: too late to send/recv, messages will be lost
+
+1483660097556	geckodriver	INFO	Listening on 127.0.0.1:52595
+1483660098560	mozprofile::profile	INFO	Using profile path /var/folders/3c/9nvctwy95rj3bgx0w0_z59g00000gn/T/rust_mozprofile.1O5EU7KIXLQP
+1483660098562	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1483660098602	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52601
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1483660102534	Marionette	INFO	Listening on port 52601
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A011A,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 51: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A011A,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 51: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A011A,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 51: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A011A,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 51: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A011A,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 51: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A011A,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 51: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A011A,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 51: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A011A,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 51: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A011A,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 51: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A011A,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 51: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A011A,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 51: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A011A,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 51: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A011A,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 51: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A011A,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 51: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A011A,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 51: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A011A,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 51: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A011A,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 51: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A011A,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 51: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A011A,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 51: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A011A,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 51: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A011A,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 51: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A011A,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 51: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A011A,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 51: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A011A,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 51: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A011A,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 51: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][OnMaybeDequeueOne] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x8E0007,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A011A,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 51: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A011A,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 51: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A011A,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 51: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A011A,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 51: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A011A,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 51: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A011A,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 51: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A011A,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 51: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A011A,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 51: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A011A,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 51: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A011A,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 51: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2E0045,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][OnMaybeDequeueOne] Error: Channel closing: too late to send/recv, messages will be lost
+
+1483666341115	geckodriver	INFO	Listening on 127.0.0.1:53068
+1483666341785	mozprofile::profile	INFO	Using profile path /var/folders/3c/9nvctwy95rj3bgx0w0_z59g00000gn/T/rust_mozprofile.OMqr5FH8yzn4
+1483666341788	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1483666342517	geckodriver::marionette	INFO	Connecting to Marionette on localhost:53077
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1483666356026	Marionette	INFO	Listening on port 53077
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/breadcrumbs.js, line 486: TypeError: this.handleMouseLeave is not a function
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/breadcrumbs.js, line 486: TypeError: this.handleMouseLeave is not a function
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/breadcrumbs.js, line 486: TypeError: this.handleMouseLeave is not a function
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/breadcrumbs.js, line 486: TypeError: this.handleMouseLeave is not a function
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/breadcrumbs.js, line 486: TypeError: this.handleMouseLeave is not a function
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/breadcrumbs.js, line 486: TypeError: this.handleMouseLeave is not a function
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/breadcrumbs.js, line 486: TypeError: this.handleMouseLeave is not a function
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/breadcrumbs.js, line 486: TypeError: this.handleMouseLeave is not a function
+1483666961794	geckodriver	INFO	Listening on 127.0.0.1:53418
+1483666962644	mozprofile::profile	INFO	Using profile path /var/folders/3c/9nvctwy95rj3bgx0w0_z59g00000gn/T/rust_mozprofile.f1XCMdCeC9FM
+1483666962664	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1483666962717	geckodriver::marionette	INFO	Connecting to Marionette on localhost:53427
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1483666971273	Marionette	INFO	Listening on port 53427
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1483667038837	geckodriver	INFO	Listening on 127.0.0.1:53622
+1483667039780	mozprofile::profile	INFO	Using profile path /var/folders/3c/9nvctwy95rj3bgx0w0_z59g00000gn/T/rust_mozprofile.2wfg1WoD41ZQ
+1483667039782	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1483667039812	geckodriver::marionette	INFO	Connecting to Marionette on localhost:53628
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1483667043334	Marionette	INFO	Listening on port 53628
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1483667987255	geckodriver	INFO	Listening on 127.0.0.1:53802
+1483667988221	mozprofile::profile	INFO	Using profile path /var/folders/3c/9nvctwy95rj3bgx0w0_z59g00000gn/T/rust_mozprofile.OZ1x6ybtMGq3
+1483667988224	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1483667988238	geckodriver::marionette	INFO	Connecting to Marionette on localhost:53811
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1483667993832	Marionette	INFO	Listening on port 53811
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1483668034709	geckodriver	INFO	Listening on 127.0.0.1:53963
+1483668035653	mozprofile::profile	INFO	Using profile path /var/folders/3c/9nvctwy95rj3bgx0w0_z59g00000gn/T/rust_mozprofile.5uR0yLASvDx1
+1483668035655	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1483668035875	geckodriver::marionette	INFO	Connecting to Marionette on localhost:53972
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1483668042491	Marionette	INFO	Listening on port 53972
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1483668739259	geckodriver	INFO	Listening on 127.0.0.1:54186
+1483668740272	mozprofile::profile	INFO	Using profile path /var/folders/3c/9nvctwy95rj3bgx0w0_z59g00000gn/T/rust_mozprofile.tUy29fKHCIcD
+1483668740324	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1483668740338	geckodriver::marionette	INFO	Connecting to Marionette on localhost:54195
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1483668745637	Marionette	INFO	Listening on port 54195
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1483668929820	geckodriver	INFO	Listening on 127.0.0.1:54348
+1483668930859	mozprofile::profile	INFO	Using profile path /var/folders/3c/9nvctwy95rj3bgx0w0_z59g00000gn/T/rust_mozprofile.CNu5lMJa7eZL
+1483668930862	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1483668930876	geckodriver::marionette	INFO	Connecting to Marionette on localhost:54357
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1483668935583	Marionette	INFO	Listening on port 54357
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1483669030170	geckodriver	INFO	Listening on 127.0.0.1:54498
+1483669031151	mozprofile::profile	INFO	Using profile path /var/folders/3c/9nvctwy95rj3bgx0w0_z59g00000gn/T/rust_mozprofile.DVqBjRKkk9R1
+1483669031153	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1483669031168	geckodriver::marionette	INFO	Connecting to Marionette on localhost:54507
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1483669037483	Marionette	INFO	Listening on port 54507
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+2017-01-05 23:47:41.176 firefox-bin[10022:155269] Warning: did not get back bottom left metric
+2017-01-05 23:47:41.176 firefox-bin[10022:155269] Warning: did not get back top right metric
+2017-01-05 23:47:42.685 firefox-bin[10022:155269] Warning: did not get back bottom left metric
+2017-01-05 23:47:42.685 firefox-bin[10022:155269] Warning: did not get back top right metric
+2017-01-05 23:47:42.803 firefox-bin[10022:155269] Warning: did not get back bottom left metric
+2017-01-05 23:47:42.803 firefox-bin[10022:155269] Warning: did not get back top right metric
+2017-01-05 23:47:42.915 firefox-bin[10022:155269] Warning: did not get back bottom left metric
+2017-01-05 23:47:42.915 firefox-bin[10022:155269] Warning: did not get back top right metric
+2017-01-05 23:47:43.031 firefox-bin[10022:155269] Warning: did not get back bottom left metric
+2017-01-05 23:47:43.031 firefox-bin[10022:155269] Warning: did not get back top right metric
+2017-01-05 23:47:43.146 firefox-bin[10022:155269] Warning: did not get back bottom left metric
+2017-01-05 23:47:43.146 firefox-bin[10022:155269] Warning: did not get back top right metric
+2017-01-05 23:47:43.261 firefox-bin[10022:155269] Warning: did not get back bottom left metric
+2017-01-05 23:47:43.261 firefox-bin[10022:155269] Warning: did not get back top right metric
+2017-01-05 23:47:43.377 firefox-bin[10022:155269] Warning: did not get back bottom left metric
+2017-01-05 23:47:43.377 firefox-bin[10022:155269] Warning: did not get back top right metric
+2017-01-05 23:47:43.491 firefox-bin[10022:155269] Warning: did not get back bottom left metric
+2017-01-05 23:47:43.491 firefox-bin[10022:155269] Warning: did not get back top right metric
+2017-01-05 23:47:43.606 firefox-bin[10022:155269] Warning: did not get back bottom left metric
+2017-01-05 23:47:43.606 firefox-bin[10022:155269] Warning: did not get back top right metric
+2017-01-05 23:47:43.721 firefox-bin[10022:155269] Warning: did not get back bottom left metric
+2017-01-05 23:47:43.721 firefox-bin[10022:155269] Warning: did not get back top right metric
+2017-01-05 23:47:43.770 firefox-bin[10022:155269] Warning: did not get back bottom left metric
+2017-01-05 23:47:43.770 firefox-bin[10022:155269] Warning: did not get back top right metric
+2017-01-05 23:47:43.836 firefox-bin[10022:155269] Warning: did not get back bottom left metric
+2017-01-05 23:47:43.836 firefox-bin[10022:155269] Warning: did not get back top right metric
+2017-01-05 23:47:43.951 firefox-bin[10022:155269] Warning: did not get back bottom left metric
+2017-01-05 23:47:43.951 firefox-bin[10022:155269] Warning: did not get back top right metric
+2017-01-05 23:47:44.066 firefox-bin[10022:155269] Warning: did not get back bottom left metric
+2017-01-05 23:47:44.066 firefox-bin[10022:155269] Warning: did not get back top right metric
+2017-01-05 23:47:44.083 firefox-bin[10022:155269] Warning: did not get back bottom left metric
+2017-01-05 23:47:44.083 firefox-bin[10022:155269] Warning: did not get back top right metric
+2017-01-05 23:47:44.212 firefox-bin[10022:155269] Warning: did not get back bottom left metric
+2017-01-05 23:47:44.212 firefox-bin[10022:155269] Warning: did not get back top right metric
+2017-01-05 23:48:19.836 firefox-bin[10022:155269] Warning: did not get back bottom left metric
+2017-01-05 23:48:19.847 firefox-bin[10022:155269] Warning: did not get back top right metric
+2017-01-05 23:48:19.848 firefox-bin[10022:155269] Warning: did not get back bottom left metric
+2017-01-05 23:48:19.848 firefox-bin[10022:155269] Warning: did not get back top right metric
+2017-01-05 23:48:19.885 firefox-bin[10022:155269] Warning: did not get back bottom left metric
+2017-01-05 23:48:19.885 firefox-bin[10022:155269] Warning: did not get back top right metric
+2017-01-05 23:48:19.886 firefox-bin[10022:155269] Warning: did not get back bottom left metric
+2017-01-05 23:48:19.886 firefox-bin[10022:155269] Warning: did not get back top right metric
+2017-01-05 23:48:19.913 firefox-bin[10022:155269] Warning: did not get back bottom left metric
+2017-01-05 23:48:19.913 firefox-bin[10022:155269] Warning: did not get back top right metric
+2017-01-05 23:48:19.914 firefox-bin[10022:155269] Warning: did not get back bottom left metric
+2017-01-05 23:48:19.914 firefox-bin[10022:155269] Warning: did not get back top right metric
+2017-01-05 23:48:20.014 firefox-bin[10022:155269] Warning: did not get back bottom left metric
+2017-01-05 23:48:20.014 firefox-bin[10022:155269] Warning: did not get back top right metric
+2017-01-05 23:48:20.015 firefox-bin[10022:155269] Warning: did not get back bottom left metric
+2017-01-05 23:48:20.015 firefox-bin[10022:155269] Warning: did not get back top right metric
+2017-01-05 23:48:20.882 firefox-bin[10022:155269] Warning: did not get back bottom left metric
+2017-01-05 23:48:20.882 firefox-bin[10022:155269] Warning: did not get back top right metric
+2017-01-05 23:48:20.883 firefox-bin[10022:155269] Warning: did not get back bottom left metric
+2017-01-05 23:48:20.883 firefox-bin[10022:155269] Warning: did not get back top right metric
+2017-01-05 23:48:21.752 firefox-bin[10022:155269] Warning: did not get back bottom left metric
+2017-01-05 23:48:21.752 firefox-bin[10022:155269] Warning: did not get back top right metric
+2017-01-05 23:48:21.752 firefox-bin[10022:155269] Warning: did not get back bottom left metric
+2017-01-05 23:48:21.752 firefox-bin[10022:155269] Warning: did not get back top right metric
+2017-01-05 23:48:22.361 firefox-bin[10022:155269] Warning: did not get back bottom left metric
+2017-01-05 23:48:22.361 firefox-bin[10022:155269] Warning: did not get back top right metric
+2017-01-05 23:48:22.361 firefox-bin[10022:155269] Warning: did not get back bottom left metric
+2017-01-05 23:48:22.362 firefox-bin[10022:155269] Warning: did not get back top right metric
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+Warning: An attempt was made to write to the DEVTOOLS_TOOLBAR_EYEDROPPER_OPENED_COUNT histogram, which is not defined in Histograms.json
+Warning: An attempt was made to write to the DEVTOOLS_TOOLBAR_EYEDROPPER_OPENED_PER_USER_FLAG histogram, which is not defined in Histograms.json
+Warning: An attempt was made to write to the DEVTOOLS_TOOLBAR_EYEDROPPER_OPENED_COUNT histogram, which is not defined in Histograms.json
+Warning: An attempt was made to write to the DEVTOOLS_TOOLBAR_EYEDROPPER_OPENED_COUNT histogram, which is not defined in Histograms.json
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/breadcrumbs.js, line 486: TypeError: this.handleMouseLeave is not a function
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/breadcrumbs.js, line 486: TypeError: this.handleMouseLeave is not a function
+console.error: 
+  Error writing response to: getUniqueSelector
+console.error: 
+  Message: Error: undefined passed where a value is required
+  Stack:
+    identityWrite@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:111:11
+RetVal<.write@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:530:12
+Response<.write/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:683:16
+Response<.write@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:681:23
+generateRequestHandlers/</handler/sendReturn@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:1054:24
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:937:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:816:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:750:11
+
+identityWrite@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:111:11
+RetVal<.write@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:530:12
+Response<.write/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:683:16
+Response<.write@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:681:23
+generateRequestHandlers/</handler/sendReturn@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:1054:24
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:937:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:816:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:750:11
+console.error: 
+  Protocol error (unknownError): undefined passed where a value is required
+console.error: 
+  Error writing response to: getUniqueSelector
+console.error: 
+  Message: Error: undefined passed where a value is required
+  Stack:
+    identityWrite@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:111:11
+RetVal<.write@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:530:12
+Response<.write/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:683:16
+Response<.write@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:681:23
+generateRequestHandlers/</handler/sendReturn@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:1054:24
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:937:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:816:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:750:11
+
+identityWrite@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:111:11
+RetVal<.write@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:530:12
+Response<.write/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:683:16
+Response<.write@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:681:23
+generateRequestHandlers/</handler/sendReturn@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:1054:24
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:937:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:816:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:750:11
+console.error: 
+  Protocol error (unknownError): undefined passed where a value is required
+1483689142937	addons.xpi	WARN	Exception running bootstrap method shutdown on firebug@software.joehewitt.com: ReferenceError: FirebugGCLICommands is not defined (resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///var/folders/3c/9nvctwy95rj3bgx0w0_z59g00000gn/T/rust_mozprofile.DVqBjRKkk9R1/extensions/firebug@software.joehewitt.com.xpi!/bootstrap.js:105:5) JS Stack trace: shutdown@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///var/folders/3c/9nvctwy95rj3bgx0w0_z59g00000gn/T/rust_mozprofile.DVqBjRKkk9R1/extensions/firebug@bootstrap.js:105:5 < this.XPIProvider.callBootstrapMethod@XPIProvider.jsm:4800:9 < this.XPIProvider.updateAddonDisabledState@XPIProvider.jsm:4919:13 < set userDisabled@XPIProvider.jsm:7434:9 < gViewController.commands.cmd_disableItem.doCommand@extensions.js:1172:9 < gViewController.doCommand@extensions.js:1461:5 < initialize/<@extensions.js:109:5
+JavaScript error: chrome://browser/content/places/browserPlacesViews.js, line 263: TypeError: this.controller is undefined
+JavaScript error: chrome://browser/content/places/browserPlacesViews.js, line 263: TypeError: this.controller is undefined
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/breadcrumbs.js, line 486: TypeError: this.handleMouseLeave is not a function
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/breadcrumbs.js, line 486: TypeError: this.handleMouseLeave is not a function
+JavaScript error: https://www.neustar.biz/blog/inspecting-xpath-expressions-css-selectors-firefox-chrome, line 1: TypeError: document.querySelector(...) is null
+JavaScript warning: https://mathid.mathtag.com/d/i.js, line 1: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: [object Object]
+JavaScript error: https://adadvisor.net/adscores/g.js?sid=9312284028, line 1: SyntaxError: illegal character
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/breadcrumbs.js, line 486: TypeError: this.handleMouseLeave is not a function
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/breadcrumbs.js, line 486: TypeError: this.handleMouseLeave is not a function
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xDE0001,name=PRemoteSpellcheckEngine::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][OnMaybeDequeueOne] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][OnMaybeDequeueOne] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][OnMaybeDequeueOne] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A00C2,name=PContent::Msg_ConsoleMessage) Channel closing: too late to send/recv, messages will be lost
+
+1483689682758	geckodriver	INFO	Listening on 127.0.0.1:55480
+1483689683748	mozprofile::profile	INFO	Using profile path /var/folders/3c/9nvctwy95rj3bgx0w0_z59g00000gn/T/rust_mozprofile.6Dglby1BUrfH
+1483689683749	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1483689683788	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55489
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1483689687733	Marionette	INFO	Listening on port 55489
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1483689812458	Marionette	INFO	Listening on port 55489
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript error: chrome://browser/content/browser.xul, line 1: ReferenceError: Firebug is not defined
+JavaScript error: chrome://browser/content/browser.xul, line 1: ReferenceError: Firebug is not defined
+JavaScript error: chrome://browser/content/browser.xul, line 1: ReferenceError: Firebug is not defined
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1483690064316	Marionette	INFO	Listening on port 55489
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript error: https://d2oz8i5n9se8ej.cloudfront.net/assets/application-8a1ccd3265d337333f10a589c37bba509be57be5768e30b38fbf217b0eec76cc.js, line 133: : 
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/breadcrumbs.js, line 486: TypeError: this.handleMouseLeave is not a function
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/breadcrumbs.js, line 486: TypeError: this.handleMouseLeave is not a function
+2017-01-06 00:09:06.393 firefox-bin[17291:228437] Warning: did not get back bottom left metric
+2017-01-06 00:09:06.420 firefox-bin[17291:228437] Warning: did not get back top right metric
+2017-01-06 00:09:06.421 firefox-bin[17291:228437] Warning: did not get back bottom left metric
+2017-01-06 00:09:06.421 firefox-bin[17291:228437] Warning: did not get back top right metric
+2017-01-06 00:09:06.498 firefox-bin[17291:228437] Warning: did not get back bottom left metric
+2017-01-06 00:09:06.498 firefox-bin[17291:228437] Warning: did not get back top right metric
+2017-01-06 00:09:06.498 firefox-bin[17291:228437] Warning: did not get back bottom left metric
+2017-01-06 00:09:06.498 firefox-bin[17291:228437] Warning: did not get back top right metric
+2017-01-06 00:09:06.581 firefox-bin[17291:228437] Warning: did not get back bottom left metric
+2017-01-06 00:09:06.581 firefox-bin[17291:228437] Warning: did not get back top right metric
+2017-01-06 00:09:06.581 firefox-bin[17291:228437] Warning: did not get back bottom left metric
+2017-01-06 00:09:06.581 firefox-bin[17291:228437] Warning: did not get back top right metric
+1483690146660	addons.xpi	WARN	Add-on {7eb3f691-25b4-4a85-9038-9e57e2bcd537} is not compatible with application version.
+1483690146670	addons.xpi	WARN	Add-on {7eb3f691-25b4-4a85-9038-9e57e2bcd537} is not compatible with application version.
+2017-01-06 00:09:07.345 firefox-bin[17291:228437] Warning: did not get back bottom left metric
+2017-01-06 00:09:07.345 firefox-bin[17291:228437] Warning: did not get back top right metric
+2017-01-06 00:09:07.345 firefox-bin[17291:228437] Warning: did not get back bottom left metric
+2017-01-06 00:09:07.345 firefox-bin[17291:228437] Warning: did not get back top right metric
+2017-01-06 00:09:08.129 firefox-bin[17291:228437] Warning: did not get back bottom left metric
+2017-01-06 00:09:08.129 firefox-bin[17291:228437] Warning: did not get back top right metric
+2017-01-06 00:09:08.129 firefox-bin[17291:228437] Warning: did not get back bottom left metric
+2017-01-06 00:09:08.129 firefox-bin[17291:228437] Warning: did not get back top right metric
+2017-01-06 00:09:08.425 firefox-bin[17291:228437] Warning: did not get back bottom left metric
+2017-01-06 00:09:08.425 firefox-bin[17291:228437] Warning: did not get back top right metric
+2017-01-06 00:09:08.425 firefox-bin[17291:228437] Warning: did not get back bottom left metric
+2017-01-06 00:09:08.425 firefox-bin[17291:228437] Warning: did not get back top right metric
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1483690157932	addons.xpi	WARN	Add-on {7eb3f691-25b4-4a85-9038-9e57e2bcd537} is not compatible with application version.
+1483690158560	Marionette	INFO	Listening on port 55489
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript error: chrome://xpathchecker/content/window.js, line 262: TypeError: Argument 1 of Node.appendChild does not implement interface Node.
+JavaScript error: chrome://xpathchecker/content/window.js, line 262: TypeError: Argument 1 of Node.appendChild does not implement interface Node.
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 77: TypeError: this._recipeManager is null
+JavaScript error: chrome://xpathchecker/content/window.js, line 262: TypeError: Argument 1 of Node.appendChild does not implement interface Node.
+JavaScript warning: https://cdn.adsafeprotected.com/sca.17.1.7.js, line 1: SyntaxError: for-in loop head declarations may not have initializers
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/breadcrumbs.js, line 486: TypeError: this.handleMouseLeave is not a function
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 77: TypeError: this._recipeManager is null
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 77: TypeError: this._recipeManager is null
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 77: TypeError: this._recipeManager is null
+JavaScript error: chrome://xpathchecker/content/window.js, line 262: TypeError: Argument 1 of Node.appendChild does not implement interface Node.
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 77: TypeError: this._recipeManager is null
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 77: TypeError: this._recipeManager is null
+JavaScript error: chrome://xpathchecker/content/window.js, line 262: TypeError: Argument 1 of Node.appendChild does not implement interface Node.
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webbrowser.js, line 1416: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/breadcrumbs.js, line 486: TypeError: this.handleMouseLeave is not a function
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/breadcrumbs.js, line 486: TypeError: this.handleMouseLeave is not a function
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/breadcrumbs.js, line 486: TypeError: this.handleMouseLeave is not a function
+1483690839014	addons.xpi-utils	WARN	Error: XPI database modified after shutdown began (resource://gre/modules/addons/XPIProvider.jsm -> resource://gre/modules/addons/XPIProviderUtils.js:458:17) JS Stack trace: this.XPIDatabase.saveChanges@XPIProviderUtils.js:458:17 < this.XPIDatabase.updateActiveAddons@XPIProviderUtils.js:1441:9 < this.XPIProvider.shutdown@XPIProvider.jsm:2866:7 < _startProvider/AMProviderShutdown/<@AddonManager.jsm:803:21 < Promise@Promise-backend.js:388:5 < _startProvider/AMProviderShutdown@AddonManager.jsm:801:16 < Barrier/this.client.addBlocker/promise</trigger@AsyncShutdown.jsm:720:23 < Barrier.prototype<._wait@AsyncShutdown.jsm:867:7 < Barrier.prototype<.wait@AsyncShutdown.jsm:851:28 < AddonManagerInternal.shutdownManager<@AddonManager.jsm:1200:15
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1483690852260	Marionette	INFO	Listening on port 55489
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 77: TypeError: this._recipeManager is null
+JavaScript error: chrome://browser/content/browser.xul, line 1: TypeError: Firebug.firefinderModel is undefined
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 77: TypeError: this._recipeManager is null
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 77: TypeError: this._recipeManager is null
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/breadcrumbs.js, line 486: TypeError: this.handleMouseLeave is not a function
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/breadcrumbs.js, line 486: TypeError: this.handleMouseLeave is not a function
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/breadcrumbs.js, line 486: TypeError: this.handleMouseLeave is not a function
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/breadcrumbs.js, line 486: TypeError: this.handleMouseLeave is not a function
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/breadcrumbs.js, line 486: TypeError: this.handleMouseLeave is not a function
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/breadcrumbs.js, line 486: TypeError: this.handleMouseLeave is not a function
+1483729142231	geckodriver	INFO	Listening on 127.0.0.1:58264
+1483729142566	mozprofile::profile	INFO	Using profile path /var/folders/3c/9nvctwy95rj3bgx0w0_z59g00000gn/T/rust_mozprofile.KEiVP7TTZz0E
+1483729142576	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1483729142969	geckodriver::marionette	INFO	Connecting to Marionette on localhost:58273
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1483729153477	Marionette	INFO	Listening on port 58273
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+2017-01-06 11:14:45.902 firefox-bin[19786:273822] Warning: did not get back bottom left metric
+2017-01-06 11:14:45.950 firefox-bin[19786:273822] Warning: did not get back top right metric
+2017-01-06 11:14:50.831 firefox-bin[19786:273822] Warning: did not get back bottom left metric
+2017-01-06 11:14:50.831 firefox-bin[19786:273822] Warning: did not get back top right metric
+2017-01-06 11:15:46.453 firefox-bin[19786:273822] Warning: did not get back bottom left metric
+2017-01-06 11:15:46.474 firefox-bin[19786:273822] Warning: did not get back top right metric
+2017-01-06 11:15:47.199 firefox-bin[19786:273822] Warning: did not get back bottom left metric
+2017-01-06 11:15:47.199 firefox-bin[19786:273822] Warning: did not get back top right metric
+2017-01-06 11:15:51.164 firefox-bin[19786:273822] Warning: did not get back bottom left metric
+2017-01-06 11:15:51.164 firefox-bin[19786:273822] Warning: did not get back top right metric
+2017-01-06 11:15:52.423 firefox-bin[19786:273822] Warning: did not get back bottom left metric
+2017-01-06 11:15:52.423 firefox-bin[19786:273822] Warning: did not get back top right metric
+2017-01-06 11:16:21.123 firefox-bin[19786:273822] Warning: did not get back bottom left metric
+2017-01-06 11:16:21.208 firefox-bin[19786:273822] Warning: did not get back top right metric
+1483731124196	geckodriver	INFO	Listening on 127.0.0.1:61117
+1483731125127	mozprofile::profile	INFO	Using profile path /var/folders/3c/9nvctwy95rj3bgx0w0_z59g00000gn/T/rust_mozprofile.St82Nsj5fAoc
+1483731125131	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1483731125508	geckodriver::marionette	INFO	Connecting to Marionette on localhost:61126
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1483731137979	Marionette	INFO	Listening on port 61126
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1483731271814	geckodriver	INFO	Listening on 127.0.0.1:61425
+1483731272688	mozprofile::profile	INFO	Using profile path /var/folders/3c/9nvctwy95rj3bgx0w0_z59g00000gn/T/rust_mozprofile.vT2Q6hfIFc0S
+1483731272689	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1483731272719	geckodriver::marionette	INFO	Connecting to Marionette on localhost:61434
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1483731280538	Marionette	INFO	Listening on port 61434
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A011A,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 51: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A011A,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 51: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A011A,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 51: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A011A,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 51: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A011A,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 51: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A011A,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 51: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A011A,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 51: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A011A,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 51: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2E0045,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][OnMaybeDequeueOne] Error: Channel closing: too late to send/recv, messages will be lost
+
+1483731359034	geckodriver	INFO	Listening on 127.0.0.1:61633
+1483731359691	mozprofile::profile	INFO	Using profile path /var/folders/3c/9nvctwy95rj3bgx0w0_z59g00000gn/T/rust_mozprofile.ILFHh1faeMCu
+1483731359693	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1483731359722	geckodriver::marionette	INFO	Connecting to Marionette on localhost:61642
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1483731371453	Marionette	INFO	Listening on port 61642
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1483732852964	geckodriver	INFO	Listening on 127.0.0.1:62051
+1483732853456	mozprofile::profile	INFO	Using profile path /var/folders/3c/9nvctwy95rj3bgx0w0_z59g00000gn/T/rust_mozprofile.eqwZuGHwUME6
+1483732853458	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1483732853898	geckodriver::marionette	INFO	Connecting to Marionette on localhost:62060
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1483732878680	Marionette	INFO	Listening on port 62060
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1483733069300	geckodriver	INFO	Listening on 127.0.0.1:62606
+1483733070307	mozprofile::profile	INFO	Using profile path /var/folders/3c/9nvctwy95rj3bgx0w0_z59g00000gn/T/rust_mozprofile.s8b7VaFpVYdv
+1483733070308	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1483733070324	geckodriver::marionette	INFO	Connecting to Marionette on localhost:62612
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1483733075932	Marionette	INFO	Listening on port 62612
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1483733153519	geckodriver	INFO	Listening on 127.0.0.1:62794
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A011A,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 51: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A011A,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 51: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A011A,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 51: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A011A,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 51: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A011A,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 51: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A011A,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 51: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A011A,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 51: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A011A,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 51: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2E0045,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][OnMaybeDequeueOne] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A00C2,name=PContent::Msg_ConsoleMessage) Channel closing: too late to send/recv, messages will be lost
+
+1483733154506	mozprofile::profile	INFO	Using profile path /var/folders/3c/9nvctwy95rj3bgx0w0_z59g00000gn/T/rust_mozprofile.nYGsNlnAyL6S
+1483733154508	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1483733154728	geckodriver::marionette	INFO	Connecting to Marionette on localhost:62800
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1483733159685	Marionette	INFO	Listening on port 62800
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1483733581441	geckodriver	INFO	Listening on 127.0.0.1:62965
+1483733582331	mozprofile::profile	INFO	Using profile path /var/folders/3c/9nvctwy95rj3bgx0w0_z59g00000gn/T/rust_mozprofile.4mOuXvivNMJE
+1483733582333	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1483733582383	geckodriver::marionette	INFO	Connecting to Marionette on localhost:62971
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1483733586853	Marionette	INFO	Listening on port 62971
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1483733640862	geckodriver	INFO	Listening on 127.0.0.1:63100
+1483733640897	mozprofile::profile	INFO	Using profile path /var/folders/3c/9nvctwy95rj3bgx0w0_z59g00000gn/T/rust_mozprofile.CAfQEiwWvDB5
+1483733640949	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1483733641151	geckodriver::marionette	INFO	Connecting to Marionette on localhost:63104
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1483733646406	Marionette	INFO	Listening on port 63104
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1483733745511	geckodriver	INFO	Listening on 127.0.0.1:63250
+1483733746479	mozprofile::profile	INFO	Using profile path /var/folders/3c/9nvctwy95rj3bgx0w0_z59g00000gn/T/rust_mozprofile.vM5BB6XdCLzZ
+1483733746480	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1483733746532	geckodriver::marionette	INFO	Connecting to Marionette on localhost:63256
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1483733750681	Marionette	INFO	Listening on port 63256
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1483733792573	geckodriver	INFO	Listening on 127.0.0.1:63391
+1483733792692	mozprofile::profile	INFO	Using profile path /var/folders/3c/9nvctwy95rj3bgx0w0_z59g00000gn/T/rust_mozprofile.vTx89zelicOM
+1483733792694	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1483733792725	geckodriver::marionette	INFO	Connecting to Marionette on localhost:63395
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1483733801494	Marionette	INFO	Listening on port 63395
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
