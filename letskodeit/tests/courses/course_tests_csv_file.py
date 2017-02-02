@@ -1,4 +1,5 @@
 from pages.courses.register_course_page import RegisterCoursePage
+from pages.home.navigation_page import NavigationPage
 import unittest
 import pytest
 from utilities.teststatus import TestStatus
@@ -10,11 +11,16 @@ from utilities.read_data import getCSVData
 class CourseTestCSV(unittest.TestCase):
 
     @pytest.fixture(autouse=True)
-    def classSetUp(self, oneTimeSetUp):
+    def objectSetUp(self, oneTimeSetUp):
         self.cp = RegisterCoursePage(self.driver)
         self.ts = TestStatus(self.driver)
+        self.np = NavigationPage(self.driver)
 
-    @data(*getCSVData("../../../testdata.csv"))
+    def setUp(self):
+        self.np.navigateToAllCourses()
+
+
+    @data(*getCSVData("/Users/megharastogi/PycharmProjects/letskodeit/testdata.csv"))
     @unpack
     def test_invalidEnrollment(self, courseName, ccNum, ccExp, ccCvv):
         self.cp.searchCourse(courseName)
@@ -27,4 +33,3 @@ class CourseTestCSV(unittest.TestCase):
         result2 = self.cp.verifyPaymentFailed()
         self.ts.markFinal('invalidCourseEnrollment',result2,"Payment failed because of invalid CC number")
 
-        self.cp.clickOnAllCourses()

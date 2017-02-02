@@ -632,3 +632,105 @@ JavaScript warning: https://api.taxamo.com/api/xdm.html?public_token=public_3adA
 JavaScript warning: https://api.taxamo.com/api/xdm.html?public_token=public_3adAdeo6B9dUufD_mJMEMkTXmxbK-vffcybxQEvrshk&xdm_e=https%3A%2F%2Fsso.teachable.com&xdm_c=default6899&xdm_p=1, line 28: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
 [Child 14505] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
 [Child 14505] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1486002565628	geckodriver	INFO	Listening on 127.0.0.1:57845
+1486002566602	mozprofile::profile	INFO	Using profile path /var/folders/3c/9nvctwy95rj3bgx0w0_z59g00000gn/T/rust_mozprofile.QLbugWQh5Yyh
+1486002566604	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1486002566607	geckodriver::marionette	INFO	Connecting to Marionette on localhost:57854
+1486002569794	Marionette	INFO	Listening on port 57854
+1486002572960	Marionette	WARN	Using deprecated data structure for setting timeouts
+JavaScript warning: https://api.taxamo.com/api/xdm.html?public_token=public_3adAdeo6B9dUufD_mJMEMkTXmxbK-vffcybxQEvrshk&xdm_e=https%3A%2F%2Fsso.teachable.com&xdm_c=default8453&xdm_p=1, line 28: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://api.taxamo.com/api/xdm.html?public_token=public_3adAdeo6B9dUufD_mJMEMkTXmxbK-vffcybxQEvrshk&xdm_e=https%3A%2F%2Fsso.teachable.com&xdm_c=default7035&xdm_p=1, line 28: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 14915] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 14915] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1486003626612	geckodriver	INFO	Listening on 127.0.0.1:58173
+1486003627489	mozprofile::profile	INFO	Using profile path /var/folders/3c/9nvctwy95rj3bgx0w0_z59g00000gn/T/rust_mozprofile.mNXG7Bt5ZvfA
+1486003627491	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1486003627581	geckodriver::marionette	INFO	Connecting to Marionette on localhost:58182
+1486003633072	Marionette	INFO	Listening on port 58182
+1486003639127	Marionette	WARN	Using deprecated data structure for setting timeouts
+JavaScript warning: https://api.taxamo.com/api/xdm.html?public_token=public_3adAdeo6B9dUufD_mJMEMkTXmxbK-vffcybxQEvrshk&xdm_e=https%3A%2F%2Fsso.teachable.com&xdm_c=default3313&xdm_p=1, line 28: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://api.taxamo.com/api/xdm.html?public_token=public_3adAdeo6B9dUufD_mJMEMkTXmxbK-vffcybxQEvrshk&xdm_e=https%3A%2F%2Fsso.teachable.com&xdm_c=default6102&xdm_p=1, line 28: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 16094] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 16094] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1486063075386	geckodriver	INFO	Listening on 127.0.0.1:58883
+1486063075864	mozprofile::profile	INFO	Using profile path /var/folders/3c/9nvctwy95rj3bgx0w0_z59g00000gn/T/rust_mozprofile.Yeo00vdQv8Nl
+1486063075866	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1486063075925	geckodriver::marionette	INFO	Connecting to Marionette on localhost:58892
+1486063082271	Marionette	INFO	Listening on port 58892
+1486063088447	Marionette	WARN	Using deprecated data structure for setting timeouts
+[Child 20152] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 20152] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1486063329230	geckodriver	INFO	Listening on 127.0.0.1:59107
+1486063329259	mozprofile::profile	INFO	Using profile path /var/folders/3c/9nvctwy95rj3bgx0w0_z59g00000gn/T/rust_mozprofile.kj4xSKxAaN1p
+1486063329262	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1486063329312	geckodriver::marionette	INFO	Connecting to Marionette on localhost:59114
+1486063333161	Marionette	INFO	Listening on port 59114
+1486063338998	Marionette	WARN	Using deprecated data structure for setting timeouts
+[Child 20427] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 20427] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1486063461490	geckodriver	INFO	Listening on 127.0.0.1:59273
+1486063462459	mozprofile::profile	INFO	Using profile path /var/folders/3c/9nvctwy95rj3bgx0w0_z59g00000gn/T/rust_mozprofile.3LoBQjypTzRK
+1486063462461	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1486063462465	geckodriver::marionette	INFO	Connecting to Marionette on localhost:59282
+1486063465770	Marionette	INFO	Listening on port 59282
+1486063470198	Marionette	WARN	Using deprecated data structure for setting timeouts
+[Child 20581] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 20581] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1486063582674	geckodriver	INFO	Listening on 127.0.0.1:59449
+1486063583654	mozprofile::profile	INFO	Using profile path /var/folders/3c/9nvctwy95rj3bgx0w0_z59g00000gn/T/rust_mozprofile.HLhLTpHGdTm0
+1486063583656	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1486063583709	geckodriver::marionette	INFO	Connecting to Marionette on localhost:59458
+1486063587255	Marionette	INFO	Listening on port 59458
+1486063591124	Marionette	WARN	Using deprecated data structure for setting timeouts
+[Child 20725] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 20725] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1486064212760	geckodriver	INFO	Listening on 127.0.0.1:59686
+1486064213319	mozprofile::profile	INFO	Using profile path /var/folders/3c/9nvctwy95rj3bgx0w0_z59g00000gn/T/rust_mozprofile.k1UF8bFaqamE
+1486064213321	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1486064213375	geckodriver::marionette	INFO	Connecting to Marionette on localhost:59695
+1486064217422	Marionette	INFO	Listening on port 59695
+1486064222227	Marionette	WARN	Using deprecated data structure for setting timeouts
+[Child 21456] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 21456] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1486064331809	geckodriver	INFO	Listening on 127.0.0.1:59869
+1486064332794	mozprofile::profile	INFO	Using profile path /var/folders/3c/9nvctwy95rj3bgx0w0_z59g00000gn/T/rust_mozprofile.oSNw28i06APH
+1486064332795	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1486064332798	geckodriver::marionette	INFO	Connecting to Marionette on localhost:59878
+1486064335953	Marionette	INFO	Listening on port 59878
+1486064338790	Marionette	WARN	Using deprecated data structure for setting timeouts
+[Child 21595] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 21595] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1486064724635	geckodriver	INFO	Listening on 127.0.0.1:60056
+1486064725607	mozprofile::profile	INFO	Using profile path /var/folders/3c/9nvctwy95rj3bgx0w0_z59g00000gn/T/rust_mozprofile.fLlk2U8opcGi
+1486064725609	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1486064725611	geckodriver::marionette	INFO	Connecting to Marionette on localhost:60065
+1486064728905	Marionette	INFO	Listening on port 60065
+1486064732700	Marionette	WARN	Using deprecated data structure for setting timeouts
+[Child 21995] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 21995] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1486064814993	geckodriver	INFO	Listening on 127.0.0.1:60227
+1486064815970	mozprofile::profile	INFO	Using profile path /var/folders/3c/9nvctwy95rj3bgx0w0_z59g00000gn/T/rust_mozprofile.aeCGw6sxkUfF
+1486064815972	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1486064815975	geckodriver::marionette	INFO	Connecting to Marionette on localhost:60236
+1486064819238	Marionette	INFO	Listening on port 60236
+1486064823248	Marionette	WARN	Using deprecated data structure for setting timeouts
+[Child 22120] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 22120] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1486065173194	geckodriver	INFO	Listening on 127.0.0.1:60451
+1486065174024	mozprofile::profile	INFO	Using profile path /var/folders/3c/9nvctwy95rj3bgx0w0_z59g00000gn/T/rust_mozprofile.OJ9kvHNH26jM
+1486065174027	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1486065174122	geckodriver::marionette	INFO	Connecting to Marionette on localhost:60460
+1486065178758	Marionette	INFO	Listening on port 60460
+1486065183650	Marionette	WARN	Using deprecated data structure for setting timeouts
+[Child 22455] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 22455] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1486065209067	geckodriver	INFO	Listening on 127.0.0.1:60645
+1486065209969	mozprofile::profile	INFO	Using profile path /var/folders/3c/9nvctwy95rj3bgx0w0_z59g00000gn/T/rust_mozprofile.oWTroukL4Y7B
+1486065209972	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1486065209983	geckodriver::marionette	INFO	Connecting to Marionette on localhost:60654
+1486065215415	Marionette	INFO	Listening on port 60654
+1486065220381	Marionette	WARN	Using deprecated data structure for setting timeouts
+JavaScript warning: https://api.taxamo.com/api/xdm.html?public_token=public_3adAdeo6B9dUufD_mJMEMkTXmxbK-vffcybxQEvrshk&xdm_e=https%3A%2F%2Fsso.teachable.com&xdm_c=default6702&xdm_p=1, line 28: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://api.taxamo.com/api/xdm.html?public_token=public_3adAdeo6B9dUufD_mJMEMkTXmxbK-vffcybxQEvrshk&xdm_e=https%3A%2F%2Fsso.teachable.com&xdm_c=default4501&xdm_p=1, line 28: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 22537] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 22537] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056

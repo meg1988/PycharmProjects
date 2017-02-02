@@ -105,9 +105,9 @@ class SeleniumDriver():
                 element = self.getElement(locator,locatorType)
             element.clear()
             element.send_keys(data)
-            self.log.info("Sent data on element with locator : " + locator + " with locator type : " + locatorType)
+            self.log.info("Sent data '"+ data +"' on element with locator : " + locator + " with locator type : " + locatorType)
         except:
-            self.log.info("Cannot send data on the element with locator : " + locator + " with locator type : " + locatorType)
+            self.log.info("Cannot send data '"+ data +"' on the element with locator : " + locator + " with locator type : " + locatorType)
             print_stack()
 
     def getText(self, data, locator='' , locatorType="id", element = None, info=''):

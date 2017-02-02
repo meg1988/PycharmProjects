@@ -1,5 +1,7 @@
 from base.basepage import BasePage
+from pages.home.navigation_page import NavigationPage
 import utilities.custom_logger as cl
+from utilities.util import Util
 import logging
 
 class LoginPage(BasePage):
@@ -9,7 +11,8 @@ class LoginPage(BasePage):
     def __init__(self,driver):
         super().__init__(driver)
         self.driver = driver
-
+        self.nav = NavigationPage(self.driver)
+        util = Util()
     #locators
 
     _login_link = "Login"
@@ -17,8 +20,10 @@ class LoginPage(BasePage):
     _password_field = "user_password"
     _login_button = "commit"
 
+
     def clickLoginLink(self):
-        self.elementClick(self._login_link,"link")
+        login_link = self.waitForElement(locator=self._login_link,locatorType="link")
+        self.elementClick(element=login_link)
 
     def enterEmail(self, email):
         self.sendKeys(email, self._email_field, "id")
@@ -39,8 +44,14 @@ class LoginPage(BasePage):
             self.enterPassword(password)
         self.clickLoginButton()
 
+    def logout(self):
+
+        self.nav.navigateToUserSettings()
+        logout_link = self.waitForElement(locator = ".//div[@id='navbar']//a[@href='/sign_out']",locatorType="xpath")
+        self.elementClick(element=logout_link)
+
     def verifyLoginSuccessful(self):
-        result = self.isElementPresent(".//*[@id='navbar']//span[text()='User Settings']","xpath")
+        result = self.isElementPresent(".//div[@id='navbar']//li[@class='dropdown']","xpath")
         return result
 
     def verifyLoginFailed(self):
@@ -48,7 +59,7 @@ class LoginPage(BasePage):
         return result
 
     def verifyLoginTitle(self):
-       return self.verifyPageTitle("Google")
+       return self.verifyPageTitle("Let's Kode")
 
 
 

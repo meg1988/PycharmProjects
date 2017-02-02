@@ -16,6 +16,7 @@ class WebDriverFactory():
             driverLocation = "/Users/megharastogi/PycharmProjects/SeleniumProject/chromedriver"
             os.environ["webdriver.chrome.driver"] = driverLocation
             driver = webdriver.Chrome(driverLocation)
+            driver.set_window_size(1280,800)
         elif self.browser == "safari":
             serverlocation = "/Users/megharastogi/PycharmProjects/SeleniumProject/selenium-server-standalone-3.0.1.jar"
             os.environ["SELENIUM_SERVER_JAR"] = serverlocation

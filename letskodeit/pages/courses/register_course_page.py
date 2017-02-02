@@ -15,7 +15,6 @@ class RegisterCoursePage(BasePage):
     #locators
     _search_field = "search-courses"
     _course = ".//div[@class='course-listing']//div[contains(text(),'{0}')]"
-    _all_courses_link = "All Courses"
     _enroll_button = "enroll-button-top"
     _card_field="cc_field"
     _expiration_field="cc-exp"
@@ -47,11 +46,6 @@ class RegisterCoursePage(BasePage):
 
     def clickOnPay(self):
         self.elementClick(self._pay_cc_button,"id")
-
-    def clickOnAllCourses(self):
-        self.webScroll("up")
-        self.elementClick(self._all_courses_link,"link")
-        self.util.sleep(3,"Waiting for page")
 
 
     def searchCourse(self, courseName):
