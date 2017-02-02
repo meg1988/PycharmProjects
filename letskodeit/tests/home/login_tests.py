@@ -22,7 +22,7 @@ class LoginTests(unittest.TestCase):
             resultMessage1 = 'Title is Correct'
         else:
             resultMessage1 = 'Title is Incorrect'
-        self.ts.mark(result1, resultMessage1)
+        self.ts.mark("test_validLogin",result1, resultMessage1)
         result2 = self.lp.verifyLoginSuccessful()
         if result2:
             resultMessage2 = 'Login Successful'

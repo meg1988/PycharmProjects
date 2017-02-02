@@ -12,33 +12,33 @@ class TestStatus(SeleniumDriver):
         super(TestStatus,self).__init__(driver)
         self.resultList = []
 
-    def setResult(self, result, resultMessage):
+    def setResult(self,testName, result, resultMessage):
         try:
             if result is not None:
                 if result:
                     self.resultList.append("PASS")
-                    self.log.info("### VERIFICATION SUCCESSFUL :: " + resultMessage)
+                    self.log.info("### VERIFICATION SUCCESSFUL for TestCase ::" + testName +" with :: " + resultMessage)
                 else:
                     self.resultList.append("FAIL")
-                    self.log.error("### VERIFICATION FAILED :: " + resultMessage)
-                    self.screenShot(resultMessage)
+                    self.log.error("### VERIFICATION FAILED for TestCase ::" + testName +" with :: " + resultMessage)
+                    self.screenShot(testName,resultMessage)
             else:
                 self.resultList.append("FAIL")
-                self.log.error("### VERIFICATION FAILED :: " + resultMessage)
-                self.screenShot(resultMessage)
+                self.log.error("### VERIFICATION FAILED for TestCase ::" + testName +" with :: " + resultMessage)
+                self.screenShot(testName, resultMessage)
 
         except:
             self.resultList.append("FAIL")
             self.log.error("### Exception occurred !!!")
-            self.screenShot(resultMessage)
+            self.screenShot(testName, resultMessage)
             print_stack()
 
-    def mark(self, result, resultMessage):
-        self.setResult(result,resultMessage)
+    def mark(self, testName, result, resultMessage):
+        self.setResult(testName, result,resultMessage)
 
 
     def markFinal(self, testName, result, resultMessage):
-        self.setResult(result,resultMessage)
+        self.setResult(testName,result,resultMessage)
 
         if "FAIL" in self.resultList:
             self.log.error(testName + " : ### TEST FAILED")

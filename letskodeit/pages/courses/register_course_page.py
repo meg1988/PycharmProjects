@@ -6,6 +6,7 @@ import logging
 class RegisterCoursePage(BasePage):
 
     log = cl.customLogger(logging.DEBUG)
+    util = Util()
 
     def __init__(self,driver):
         super().__init__(driver)
@@ -13,20 +14,21 @@ class RegisterCoursePage(BasePage):
 
     #locators
     _search_field = "search-courses"
-    _course = ".//div[@class='course-listing']//div[contains(text(),'JavaScript for beginners')]"
+    _course = ".//div[@class='course-listing']//div[contains(text(),'{0}')]"
+    _all_courses_link = "All Courses"
     _enroll_button = "enroll-button-top"
     _card_field="cc_field"
     _expiration_field="cc-exp"
     _cvv_field="cc_cvc"
     _country_select_field="country-select-inside"
     _pay_cc_button = "verify_cc_btn"
-    _error_message =".//div[@id='checkout_form_errors']/div[@class='payment-errors invalid_number']"
+    _error_message =".//div[@id='checkout_form_errors']//div[@class='payment-errors invalid_number']"
 
     def enterCourseName(self, courseName):
         self.sendKeys(courseName, self._search_field ,"id")
 
-    def selectCourse(self):
-        self.elementClick(self._course,"xpath")
+    def selectCourse(self, courseName):
+        self.elementClick(self._course.format(courseName),"xpath")
 
     def clickEnroll(self):
         self.elementClick(self._enroll_button,"id")
@@ -46,22 +48,29 @@ class RegisterCoursePage(BasePage):
     def clickOnPay(self):
         self.elementClick(self._pay_cc_button,"id")
 
+    def clickOnAllCourses(self):
+        self.webScroll("up")
+        self.elementClick(self._all_courses_link,"link")
+        self.util.sleep(3,"Waiting for page")
+
+
     def searchCourse(self, courseName):
         self.enterCourseName(courseName)
-        self.selectCourse()
-        util = Util()
-        util.sleep(3,"Waiting for page")
+        self.selectCourse(courseName)
+        self.util.sleep(3,"Waiting for page")
 
-    def enrollCourse(self, card, expDate, cvv, country = "United States"):
+    def enrollCourse(self, card="", expDate="", cvv="", country = "United States"):
         self.clickEnroll()
+        self.util.sleep(3,"Waiting for page")
+        self.webScroll("down")
         self.enterCCNum(card)
         self.enterExpirationDate(expDate)
         self.enterCVV(cvv)
         self.selectCountry(country)
         self.clickOnPay()
 
-    def verifyCoursePageTitle(self):
-        return self.verifyPageTitle("Javascript")
+    def verifyCoursePageTitle(self, courseName):
+        return self.verifyPageTitle(courseName)
 
     def verifyPaymentFailed(self):
         return  self.isElementPresent(self._error_message,"xpath")

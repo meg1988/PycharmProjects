@@ -3,17 +3,18 @@ import unittest
 import pytest
 from utilities.teststatus import TestStatus
 from ddt import ddt,data,unpack
+from utilities.read_data import getCSVData
 
 @pytest.mark.usefixtures("oneTimeSetUp","setUp")
 @ddt
-class CourseTest(unittest.TestCase):
+class CourseTestCSV(unittest.TestCase):
 
     @pytest.fixture(autouse=True)
     def classSetUp(self, oneTimeSetUp):
         self.cp = RegisterCoursePage(self.driver)
         self.ts = TestStatus(self.driver)
 
-    @data(("JavaScript for beginners","41111111","01/2020","222"),("Learn Python 3 from scratch","323232","01/2021","111"))
+    @data(*getCSVData("../../../testdata.csv"))
     @unpack
     def test_invalidEnrollment(self, courseName, ccNum, ccExp, ccCvv):
         self.cp.searchCourse(courseName)

@@ -17,9 +17,9 @@ class SeleniumDriver():
     def __init__(self,driver):
         self.driver = driver
 
-    def screenShot(self,resultMessage):
+    def screenShot(self,testcaseName, resultMessage):
 
-        fileName = resultMessage + "." + str(round(time.time()) * 1000) + ".png"
+        fileName = testcaseName + "_" + resultMessage + "." + str(round(time.time()) * 1000) + ".png"
         screenshotDirectory = "../screenshots/"
         relativeFileName = screenshotDirectory + fileName
         currentDirectory = os.path.dirname(__file__)
@@ -96,7 +96,7 @@ class SeleniumDriver():
             element.click()
             self.log.info("Clicked on element with locator : " + locator + " with locator type : " + locatorType)
         except:
-            self.log.info("Cannot click on the element with locator : " + locator + " with locator type : " + locatorType)
+            self.log.error("Cannot click on the element with locator : " + locator + " with locator type : " + locatorType)
             print_stack()
 
     def sendKeys(self, data, locator='' , locatorType="id", element = None):
